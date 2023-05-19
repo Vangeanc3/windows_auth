@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YkhcQN8hXgjySUCZWo+/d4++PzGB/oFDTYvdcurhYXg=",
+  "Source": "windows_auth",
+  "BasePath": "_content/windows_auth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
